@@ -1,1 +1,3 @@
 # Deep-Learning-Based-Object-Classification-with-Live-Video-Feed
+
+Train a neural network based on deep learning using an existing model. Your target would be to classify any two or more classes. You may choose to train the model from scratch; however use of transfer learning is encouraged. Integrate the trained model into a basis web application that captures live video feed from host computer. In case camera is not available in local computer, you may use live feed from remote camera (mobile phone should be available locally). Your trained model should be able to identify the classes on live video feed. Other than classification, you are also required to create bounding box on live video feed for the detected classes.
